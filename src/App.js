@@ -11,8 +11,9 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+          NYT Web Scraper - This time with React!
+				</p>
+				<p>This is a React Web Scraper demonstrating React.JS components in a short lifecycle, combined with webscraping headlines, descriptions and links from the NYT site.</p>
       </div>
     );
   }
